@@ -61,7 +61,8 @@ h1 {
 .btn-instagram:hover,
 .btn-facebook:hover,
 .btn-whtsapp:hover,
-.btn-linkedin:hover {
+.btn-linkedin:hover,
+.btn-dark:hover {
   color: #ffff !important;
 }
 
